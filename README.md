@@ -3,6 +3,7 @@
 The shell command will prompt as msh>
 Program will print out a prompt of 
 msh> 
+
 when it is ready to accept input.
 If the command is not supported your shell shall print the invalid command followed by “: Command not found.”
 If the command option is an invalid option then the shell shall print the command followed by “: invalid option --” and the option that was invalid as well as a prompt to try  help.
